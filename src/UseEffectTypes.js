@@ -27,7 +27,7 @@ const UseEffectTypes = () => {
     const [dep1,setDep1] = useState(false)
     const [dep2,setDep2] = useState(true)
     
-    /* UseLayoutEffects 
+    /* UseLayoutEffect
       
       The difference comes from where useLayoutEffect will be called before the user can 
       see the visual changes in that render whereas useEffect will be called after a user 
