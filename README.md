@@ -29,6 +29,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - Button ,Click etc event handling with Jest
  - How to use Enzyme with jest
 
+ - React Error Boundaries
+
    
 
 
